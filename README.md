@@ -1,4 +1,9 @@
 ### Hi there 👋
+📫 How to reach me: nkeithw@gmail.com
+🌱 I’m currently learning: Koltin
+🔭 I’m currently working on a 1.20.2 Java minecraft client.
+🤔 I’m looking for help with said 1.20.2 Java minecraft client.
+
 
 <!--
 **NKeithW/NKeithW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
