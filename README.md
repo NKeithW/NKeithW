@@ -40,6 +40,10 @@
 
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:507562313109471232)
+
+---
+
 If you guys like jokes:
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
