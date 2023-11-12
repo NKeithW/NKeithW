@@ -39,5 +39,6 @@
 
 ---
 If you guys like jokes:
+
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
