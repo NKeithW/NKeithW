@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 📫 How to reach me: nkeithw@gmail.com
+### 📫 How to reach me: nkeithw@gmail.com 
+<img src="https://komarev.com/ghpvc/?username=nkeithw&style=flat-square&color=blue" alt=""/>
 
 ---
 
@@ -28,4 +29,9 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=nkeithw&style=flat-square&color=blue" alt=""/>
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKeithW&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### If you wanna stalk my music taste:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nkeithw&cover_image=true&theme=default&show_offline=false&background_color=5f08e2&interchange=true&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nkeithw&redirect=true)
