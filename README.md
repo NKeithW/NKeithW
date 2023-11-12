@@ -40,8 +40,6 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:507562313109471232)](https://discord.com/users/:507562313109471232)
-
 ---
 
 If you guys like jokes:
