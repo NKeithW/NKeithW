@@ -7,6 +7,7 @@
 ### 🌱 I’m currently learning: Koltin as well as Flipper Zero stuff!
 ### 🔭 I’m currently working on a 1.20.2 Java minecraft client.
 ### 🤔 I’m looking for help with said 1.20.2 Java minecraft client.
+### Fun Facts: I am a Pixel Super Fan as well as I was a US Beta tester for the Nothing Phone 1.
 
 ---
 
