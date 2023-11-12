@@ -39,10 +39,6 @@
 
 ---
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<507562313109471232>)
-
----
-
 If you guys like jokes:
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
