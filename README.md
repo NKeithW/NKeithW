@@ -34,7 +34,7 @@
 
 ---
 
-<img src="https://open.spotify.com/embed/artist/5niRFfB8efYTKAPbGdAEoY?utm_source=generator" />
+<img src="https://open.spotify.com/artist/5niRFfB8efYTKAPbGdAEoY?si=jgp-hqXCTlCYwWsl-iCCLw" title="NKeithW" />
 
 ---
 
