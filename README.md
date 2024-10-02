@@ -34,12 +34,6 @@
 
 ---
 
-<div>
-<img src="https://open.spotify.com/artist/5niRFfB8efYTKAPbGdAEoY?si=jgp-hqXCTlCYwWsl-iCCLw" title="NKeithW" alt"Spotify" width="150" height="150"/>>&nbsp;
-</div>
-
----
-
 If you guys like jokes:
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
